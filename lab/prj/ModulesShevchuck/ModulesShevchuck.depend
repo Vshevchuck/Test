@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589198211 source:d:\tmp\ng_2020_vlad_shevchuck\prj\modulesshevchuck\main.cpp
+	<iostream>
+	<cmath>
+

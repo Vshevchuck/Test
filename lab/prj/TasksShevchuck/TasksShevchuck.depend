@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589222098 source:d:\tmp\ng_2020_vlad_shevchuck\prj\tasksshevchuck\main.cpp
+	<iostream>
+	"calculation.h"
+
+1589198392 d:\tmp\ng_2020_vlad_shevchuck\prj\tasksshevchuck\calculation.h
+
